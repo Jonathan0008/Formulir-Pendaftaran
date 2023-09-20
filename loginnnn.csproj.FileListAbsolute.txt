@@ -1,0 +1,14 @@
+C:\Users\ACER\Documents\Gerry VisPro\loginnnn\loginnnn\bin\Debug\loginnnn.exe.config
+C:\Users\ACER\Documents\Gerry VisPro\loginnnn\loginnnn\bin\Debug\loginnnn.exe
+C:\Users\ACER\Documents\Gerry VisPro\loginnnn\loginnnn\bin\Debug\loginnnn.pdb
+C:\Users\ACER\Documents\Gerry VisPro\loginnnn\loginnnn\obj\Debug\loginnnn.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\Gerry VisPro\loginnnn\loginnnn\obj\Debug\loginnnn.About.resources
+C:\Users\ACER\Documents\Gerry VisPro\loginnnn\loginnnn\obj\Debug\loginnnn.Properties.Resources.resources
+C:\Users\ACER\Documents\Gerry VisPro\loginnnn\loginnnn\obj\Debug\loginnnn.csproj.GenerateResource.cache
+C:\Users\ACER\Documents\Gerry VisPro\loginnnn\loginnnn\obj\Debug\loginnnn.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Documents\Gerry VisPro\loginnnn\loginnnn\obj\Debug\loginnnn.exe
+C:\Users\ACER\Documents\Gerry VisPro\loginnnn\loginnnn\obj\Debug\loginnnn.pdb
+C:\Users\ACER\Documents\Gerry VisPro\loginnnn\loginnnn\obj\Debug\loginnnn.FPendafaran.resources
+C:\Users\ACER\Documents\Gerry VisPro\Project\loginnnn\obj\Debug\loginnnn.csproj.AssemblyReference.cache
+C:\Users\ACER\Documents\Gerry VisPro\Project\loginnnn\obj\Debug\loginnnn.exe
+C:\Users\ACER\Documents\Gerry VisPro\Project\loginnnn\obj\Debug\loginnnn.pdb
